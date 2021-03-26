@@ -3,23 +3,20 @@
 <head>
 <title>Beaver</title>
 <meta charset="utf-8">
-<style>
-    a{
-        border-style: none;
-        color:saddlebrown;
-    }
-</style>
+<script src="color.js"></script>
 </head>
 <body>
     <h1><a href="https://ko.wikipedia.org/wiki/%EB%B9%84%EB%B2%84">Beaver</a></h1>
 <h2 style="background-color: saddlebrown; color:white">about Beaver</h2>
 
-     <span style="font-weight: bold;">Beaver</span>
+    <span style="font-weight: bold;"><a href="ex3.html">Beaver</a></span>
     <ul>
-    <li style="font-weight: bold"><a href="ex3_1.html">hobby</a></li>
+    <li style="font-weight: bold"><a href="ex3_1.html" id="here">hobby</a></li>
     <li style="font-weight: bold"><a href="ex3_2.html">relationship</a></li>
     <li style="font-weight: bold"><a href="ex3_3.html">click</a></li>
     </ul>
-
+    <input id="click" type="button" value="click" onclick="
+        nightDayHandler(this);
+    ">
 </body>
 </html>
