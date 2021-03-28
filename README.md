@@ -1,7 +1,8 @@
 # hyunjeong
 ewha-web-study / Backend
 
-1>  https://ewha-web-study.github.io/hyunjeong/
+1>  https://ewha-web-study.github.io/hyunjeong/ \n
+
 2>
 lec03Ptj001프로젝트 : 스프링 프로젝트 Root.﻿
 lec03Ptj001/src/main/java폴더 : .java파일 관리. 앞으로 만들어지는 자바 파일들이 관리되는 폴더이다.
